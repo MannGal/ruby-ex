@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>עידן צדיק המלך</h1>
+            <h1>Idan Zadik the King</h1>
           </hgroup>
 
 
